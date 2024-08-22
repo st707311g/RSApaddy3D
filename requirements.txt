@@ -1,0 +1,10 @@
+coloredlogs
+cucim
+cupy
+napari
+napari_animation
+numpy
+polars
+PySide6
+scikit-image
+sknw
