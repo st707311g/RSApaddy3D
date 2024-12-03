@@ -74,7 +74,7 @@ The resulting file name is `04_root_paths.json`. This vector represents the root
 
 The resulting file name is `05_animation.mp4`. Note that a GUI environment is required to create animations. The next step is to remove the roots of adjacent individuals.
 
-     python RSApaddy3D/remove_adjacent_individuals.py --src 02_pad
+     python RSApaddy3D/remove_adjacent_individuals.py --src 02_rice_paddy_monolith
 dy_monolith_Tachiharuka
 
 The resulting file name is `06_root_paths_filtered.json`. Make the animation to confirm the extraction result.
