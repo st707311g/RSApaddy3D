@@ -83,7 +83,7 @@ The resulting file name is `06_root_paths_filtered.json`. Make the animation to 
 
 The resulting file name is `07_animation_filtered.mp4`. Finally, the root traits are calculated. Three traits were assessed, namely root length, mean root diameter, and root elongation angle. Specify the soil block diameter to cut out a hemispherical volume. 
 
-python RSApaddy3D/calculate_traits.py --src 02_rice_paddy_monolith --mm_monolith_diameter 160
+    python RSApaddy3D/calculate_traits.py --src 02_rice_paddy_monolith --mm_monolith_diameter 160
 
 The resulting file name is `08_rsa_params_filtered.json`.If multiple CT images are processed at once, the results can be combined into single CSV file using `combine_results.py`.
 
